@@ -48,6 +48,3 @@ documentation/ -> KPI definitions and business rules
 powerbi/       -> Power BI files
 sql/           -> SQL queries
 ```
-
-## Dashboard Preview
-![Dashboard Preview](screenshots/Overview-Dashboard-Turnover-Sinarmas-Multifinance.jpg)
