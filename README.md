@@ -1,23 +1,32 @@
-# HR Turnover Dashboard
+# HR Turnover Dashboard — PT Sinar Mas Multifinance
+
+## Dashboard Preview
+![Dashboard Preview](screenshots/Overview-Dashboard-Turnover-Sinarmas-Multifinance.jpg)
 
 ## Overview
-This project is an HR turnover analytics dashboard built using Power BI to monitor employee attrition trends and workforce insights.
+An interactive HR Turnover Analytics Dashboard built with Power BI to monitor employee attrition trends, workforce headcount, and resignation patterns across all divisions, regions, and branches of PT Sinar Mas Multifinance.
+The dashboard empowers the HR team to make data-driven decisions by surfacing key signals such as monthly turnover rates, resignation volumes, new hire trends, and termination reasons — all with dynamic filtering capabilities.
 
 ## Business Problem
-HR teams need a centralized dashboard to monitor employee turnover trends across divisions, branches, and employee categories.
+HR teams at PT Sinar Mas Multifinance lacked a centralized, real-time view of employee turnover. Data was scattered across systems, making it difficult to:
+
+- Detect early warning signs of high attrition in specific regions or job levels
+- Compare new hire intake against resignation volumes month-over-month
+- Understand the root causes behind employee terminations
+- Prioritize retention efforts at the branch and division level
 
 ## Objectives
-- Monitor turnover rate
-- Analyze resignation and Hire trends
-- Identify high turnover areas
-- Identify high turnover position
-- Analyze termination reason
-- Support HR decision making
+- Monitor monthly turnover rate against a defined threshold (5.98% target line)
+- Analyze the gap between new hire and resignation volumes over time
+- Identify divisions and regions with the highest attrition risk
+- Break down resignations by job position (Staff, Officer, Supervisor, Department Head)
+- Understand termination reasons (voluntary vs. involuntary)
+- Support HR leadership with actionable, self-service reporting
 
 ## Tools Used
-- Power BI
-- SQL
-- Excel
+- Power BI (Dashboard development, data modeling, DAX measures)
+- SQL (Data extraction and transformation from source systems)
+- Excel (Data cleaning, staging, and supplementary analysis)
 
 ## Key Metrics
 - Turnover Rate
