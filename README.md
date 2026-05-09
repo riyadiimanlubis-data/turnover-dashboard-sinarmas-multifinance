@@ -1,6 +1,6 @@
 # HR Turnover Dashboard
 
-![Dashboard Preview](screenshots/Overview-Turnover-Dashboard-Sinarmas-Multifinance.jpg)
+![Dashboard Preview](screenshots/Overview-Dashboard-Turnover-Sinarmas-Multifinance.jpg)
 
 ## Overview
 This project is an HR turnover analytics dashboard built using Power BI to monitor employee attrition trends and workforce insights.
