@@ -34,7 +34,7 @@ HR teams need a centralized dashboard to monitor employee turnover trends across
 
 ## Project Structure
 ```text
-screenshots/   -> dashboard preview images in PDF
+screenshots/   -> dashboard preview images
 documentation/ -> KPI definitions and business rules
 powerbi/       -> Power BI files
 sql/           -> SQL queries
